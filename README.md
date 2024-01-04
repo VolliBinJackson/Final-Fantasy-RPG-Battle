@@ -1,0 +1,1 @@
+In this project, I have programmed a round based RPG fighting system in Java. You may know these probably in older Final Fantasy games or Pokemon. If you probably notice some issues or improvements, I am open for feedback! 
